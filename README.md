@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Avichal Sharma</h1>
 <h3 align="center">A passionate Data Science buff.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 💬 Ask me about **Machine Learning**
 
