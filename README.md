@@ -2,4 +2,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avichals&show_icons=true&locale=en&layout=compact" alt="avichals" height="150px" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avichals&show_icons=true&locale=en" alt="avichals" height="150px"/></p>
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/avichalsharma7" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" /></a></p>
+<p align="left"><a href="https://linkedin.com/in/avichalsharma7" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" /></a>
+<a href="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" /></a>
+</p>
+
