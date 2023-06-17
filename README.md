@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:avichalsharma2003@gmail.com" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" height="30" width="30" /></a>  
-<a href="https://linkedin.com/in/avichalsharma7" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" height="30" width="35" /></a>
+<a href="https://linkedin.com/in/avichalsharma7" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" height="40" width="40" /></a>
 <a href="https://public.tableau.com/app/profile/avichalsharma" target="blank"><img align="center" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100" height="30" width="35" /></a>
 </p>
 
