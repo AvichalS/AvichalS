@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/avichalsharma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avichalsharma7" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/avichalsharma7" target="blank"><img align="center" src="https://png.pngtree.com/element_our/png/20181011/linkedin-social-media-icon-design-template-vector-png_127000.jpg" alt="avichalsharma7" height="30" width="40" /></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avichals&show_icons=true&locale=en&layout=compact" alt="avichals" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avichals&show_icons=true&locale=en" alt="avichals" /></p>
