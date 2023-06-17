@@ -3,7 +3,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avichals&show_icons=true&locale=en" alt="avichals" height="150px"/></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="avichalsharma2003@gmail.com" target="blank"><img align="center" src="https://image.similarpng.com/thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" height="30" width="30" /></a>  
+<a href="avichalsharma2003@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg" height="30" width="30" /></a>  
 <a href="https://linkedin.com/in/avichalsharma7" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="35" /></a>
 <a href="https://public.tableau.com/app/profile/avichalsharma" target="blank"><img align="center" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100" height="30" width="35" /></a>
 </p>
